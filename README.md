@@ -50,6 +50,9 @@ https://github.com/openai/openai-cookbook
 
 # Resource
 
+https://huggingface.co/hassanblend/HassanBlend1.5.1.2/tree/main
+生成图片模型（人体模型较为逼真）
+
 
 # ChatGpt 生成式提示词
 
