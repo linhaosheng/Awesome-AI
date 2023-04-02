@@ -46,7 +46,8 @@ https://github.com/openai/openai-cookbook
 使用OpenAI API的示例和指南(Examples and guides for using the OpenAI API)
 
 # AI Tools
-
+https://github.com/godly-devotion/MochiDiffusion
+训练
 
 # Resource
 
