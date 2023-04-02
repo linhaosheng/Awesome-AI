@@ -49,3 +49,8 @@ https://github.com/openai/openai-cookbook
 
 
 # Resource
+
+
+# ChatGpt 生成式提示词
+
+https://github.com/dair-ai/Prompt-Engineering-Guide
