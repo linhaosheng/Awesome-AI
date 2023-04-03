@@ -45,6 +45,10 @@ https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
 https://github.com/openai/openai-cookbook
 使用OpenAI API的示例和指南(Examples and guides for using the OpenAI API)
 
+
+https://github.com/apple/ml-stable-diffusion
+苹果官方出的生成式图片
+
 # AI Tools
 https://github.com/godly-devotion/MochiDiffusion
 训练
