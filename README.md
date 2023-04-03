@@ -53,6 +53,9 @@ https://github.com/apple/ml-stable-diffusion
 https://github.com/godly-devotion/MochiDiffusion
 训练
 
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+web训练界面
+
 # Resource
 
 https://huggingface.co/hassanblend/HassanBlend1.5.1.2/tree/main
