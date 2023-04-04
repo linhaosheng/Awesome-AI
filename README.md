@@ -65,3 +65,7 @@ https://huggingface.co/hassanblend/HassanBlend1.5.1.2/tree/main
 # ChatGpt 生成式提示词
 
 https://github.com/dair-ai/Prompt-Engineering-Guide
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json
