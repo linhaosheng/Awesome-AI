@@ -51,6 +51,9 @@ chat-gpt 调用api
 https://github.com/apple/ml-stable-diffusion
 苹果官方出的生成式图片
 
+https://github.com/Torantulino/Auto-GPT  
+自主式人工智能
+
 # AI Tools
 https://github.com/godly-devotion/MochiDiffusion
 训练
