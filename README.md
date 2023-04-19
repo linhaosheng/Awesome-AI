@@ -74,3 +74,17 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json
+
+使用ChatGPT创建一个公司的完整提示词模板
+https://www.reddit.com/r/ChatGPT/comments/12gjp5b/ultimate_guide_for_building_a_startup_with/
+
+HeroPage：提示词分享社区
+https://hero.page/
+
+
+
+
+#AI 相关实践
+https://www.youtube.com/watch?v=8I3NTE4cn5s
+如何利用AI和ChatGPT创建网页
+
