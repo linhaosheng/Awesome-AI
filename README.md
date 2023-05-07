@@ -81,6 +81,9 @@ https://www.reddit.com/r/ChatGPT/comments/12gjp5b/ultimate_guide_for_building_a_
 HeroPage：提示词分享社区
 https://hero.page/
 
+GPT4 和GPT3 提示词：
+https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9
+
 
 
 
