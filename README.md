@@ -92,3 +92,14 @@ https://www.youtube.com/watch?v=8I3NTE4cn5s
 
 https://docs.luojixiangliang.com/quick-start
 代码接入OpenAI ChatGpt
+
+https://mp.weixin.qq.com/s/bXD1u6ysYkTEamt-PYI1RA
+教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程
+
+#ChatGPT 课程
+https://www.youtube.com/watch?v=vw-KWfKwvTQ&t=1799s
+GPT-4是如何工作的
+
+
+
+
