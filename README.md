@@ -86,8 +86,9 @@ https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9
 
 
 
-
 #AI 相关实践
 https://www.youtube.com/watch?v=8I3NTE4cn5s
 如何利用AI和ChatGPT创建网页
 
+https://docs.luojixiangliang.com/quick-start
+代码接入OpenAI ChatGpt
