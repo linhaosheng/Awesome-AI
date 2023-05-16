@@ -103,3 +103,8 @@ GPT-4是如何工作的
 
 
 
+
+# ChatGPT api key
+openai ： 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
+
+
