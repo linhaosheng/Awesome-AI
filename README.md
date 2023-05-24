@@ -84,6 +84,10 @@ https://hero.page/
 GPT4 和GPT3 提示词：
 https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9
 
+非常棒的提示词助手
+
+https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+
 
 
 #AI 相关实践
