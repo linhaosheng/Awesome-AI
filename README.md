@@ -85,8 +85,10 @@ GPT4 和GPT3 提示词：
 https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9
 
 非常棒的提示词助手
-
 https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+
+midjourney 提示词助手
+https://cstore-picbook-pub-tx.seewo.com/picbook-public/ed718cf8dd424fdebfb9574ac7770cc6
 
 
 
@@ -100,6 +102,9 @@ https://docs.luojixiangliang.com/quick-start
 https://mp.weixin.qq.com/s/bXD1u6ysYkTEamt-PYI1RA
 教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程
 
+https://www.databricks.com/sites/default/files/2023-05/databricks-2023-state-of-data-report.pdf
+AI数据报告链接
+
 #ChatGPT 课程
 https://www.youtube.com/watch?v=vw-KWfKwvTQ&t=1799s
 GPT-4是如何工作的
@@ -108,7 +113,8 @@ GPT-4是如何工作的
 
 
 
+
 # ChatGPT api key
-openai ： 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
+
 
 
