@@ -120,9 +120,9 @@ https://civitai.com/api/download/models/11745
 真人写实风格
 
 LoRA 模型亚洲三姐妹:
-1. koreanDollLikeness
-2. japaneseDollLikeness
-3. taiwanDollLikeness
+1. koreanDollLikeness : https://civitai.com/models/26124?modelVersionId=31284
+2. japaneseDollLikeness : https://civitai.com/models/28811/japanesedolllikeness-v15
+3. taiwanDollLikeness : https://civitai.com/models/17497/taiwan-doll-likeness
 
 
 
