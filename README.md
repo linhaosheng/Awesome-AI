@@ -113,17 +113,18 @@ https://www.youtube.com/watch?v=vw-KWfKwvTQ&t=1799s
 GPT-4是如何工作的
 
 
-#Stable Diffusion 模型
+
+# Stable Diffusion 模型
 
 https://civitai.com/api/download/models/11745
 真人写实风格
 
+LoRA 模型亚洲三姐妹:
+1. koreanDollLikeness
+2. japaneseDollLikeness
+3. taiwanDollLikeness
 
 
-
-
-
-# ChatGPT api key
 
 
 
