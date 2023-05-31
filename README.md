@@ -90,6 +90,9 @@ https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 midjourney 提示词助手
 https://cstore-picbook-pub-tx.seewo.com/picbook-public/ed718cf8dd424fdebfb9574ac7770cc6
 
+midjourney 画图提示词网站
+https://www.kandouyin.com/
+
 
 
 #AI 相关实践
@@ -108,6 +111,12 @@ AI数据报告链接
 #ChatGPT 课程
 https://www.youtube.com/watch?v=vw-KWfKwvTQ&t=1799s
 GPT-4是如何工作的
+
+
+#Stable Diffusion 模型
+
+https://civitai.com/api/download/models/11745
+真人写实风格
 
 
 
