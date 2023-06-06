@@ -124,6 +124,7 @@ LoRA 模型亚洲三姐妹:
 2. japaneseDollLikeness : https://civitai.com/models/28811/japanesedolllikeness-v15
 3. taiwanDollLikeness : https://civitai.com/models/17497/taiwan-doll-likeness
 
+Stable Diffusion模型介绍 : https://ki6j1b0d92h.feishu.cn/wiki/wikcnUltyeWyrDvPwOICNTAjzOh
 
 
 
